@@ -25,6 +25,11 @@ The goal of this dashboard is to analyze HR data and uncover patterns related to
 - **KPI Summary:** Total employees, attrition count, attrition rate, active employees, and average age.  
 
 ---
+## 📁 Dataset / Files
+
+- **Excel Workbook:**  
+  [Download HR_Analytics_Data.xlsx](HR_Analytics_Data.xlsx)
+
 
 ## 🖼 Dashboard Preview
 
