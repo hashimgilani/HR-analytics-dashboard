@@ -31,8 +31,3 @@ The goal of this dashboard is to analyze HR data and uncover patterns related to
 <img src="assets/HR_Dashboard.png" alt="HR Analytics Dashboard" width="100%">
 
 
-```text
-HR-analytics-dashboard/
-├── README.md
-└── assets/
-    └── HR_Dashboard.png   # Dashboard screenshot (to be added)
