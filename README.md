@@ -35,22 +35,3 @@ HR-analytics-dashboard/
 ├── README.md
 └── assets/
     └── HR_Dashboard.png   # Dashboard screenshot (to be added)
-```
-
-##🛠 Tools & Technologies
-
-Tableau – dashboard development & interactivity
-
-Excel – data cleaning & preparation
-
-Data Modeling – designing measures/dimensions for HR analytics
-
-🔗 Connect With Me
-
-Portfolio: https://hashimgilani.github.io
-
-LinkedIn: https://www.linkedin.com/in/syedhashimgilani/
-
-Email: hashimgilani331@gmail.com
-
-⭐ Thanks for checking out this project!
