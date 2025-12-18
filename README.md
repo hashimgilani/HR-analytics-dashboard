@@ -28,7 +28,8 @@ The goal of this dashboard is to analyze HR data and uncover patterns related to
 
 ## 🖼 Dashboard Preview
 
-> Screenshot will appear here once `assets/HR_Dashboard.png` is added to the repo.
+<img src="assets/HR_Dashboard.png" alt="HR Analytics Dashboard" width="100%">
+
 
 ```text
 HR-analytics-dashboard/
